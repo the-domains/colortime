@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.4815756
+  lightness: 0.06509031
+  brandStrength: 1
+  brandColors:
+    - '#000000'
+    - '#D0D0D0'
+    - '#616161'
+    - '#8C8C8C'
+    - '#B1B1B1'
+  rhythmicContrast: 0.2283195
+typography_spectrum: 0.1111615
+name: ColorTime
