@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ColorTime_Site_Launch
-datePublished: '2016-06-20T21:49:01.345Z'
-dateModified: '2016-06-20T21:48:14.445Z'
+datePublished: '2016-06-20T21:51:00.938Z'
+dateModified: '2016-06-20T21:49:10.651Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-20-site_launch.md
