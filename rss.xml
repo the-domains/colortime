@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[ColorTime]]></title>
         <description><![CDATA[ColorTime]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/colortime/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Jun 2016 21:44:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 20 Jun 2016 21:44:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/colortime/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Site_Launch]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1036662-e3ec-4b16-81b7-a1803d814a01.jpg">]]></description>
-            <link>undefinedsite_launch/index.html</link>
+            <link>https://thegrid.ai/colortime/site_launch/index.html</link>
             <guid isPermaLink="false">37b1da56-79d1-4cf5-9a52-f38ce456b0e4</guid>
-            <pubDate>Mon, 20 Jun 2016 21:43:47 GMT</pubDate>
+            <pubDate>Mon, 20 Jun 2016 21:44:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
