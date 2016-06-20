@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[ColorTime]]></title>
-        <description><![CDATA[ColorTime]]></description>
+        <title><![CDATA[ColorTime_LOGO]]></title>
+        <description><![CDATA[ColorTime_LOGO]]></description>
         <link>https://thegrid.ai/colortime/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Jun 2016 21:44:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2016 21:48:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/colortime/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Site_Launch]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1036662-e3ec-4b16-81b7-a1803d814a01.jpg">]]></description>
             <link>https://thegrid.ai/colortime/site_launch/index.html</link>
             <guid isPermaLink="false">37b1da56-79d1-4cf5-9a52-f38ce456b0e4</guid>
-            <pubDate>Mon, 20 Jun 2016 21:44:54 GMT</pubDate>
+            <pubDate>Mon, 20 Jun 2016 21:48:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
