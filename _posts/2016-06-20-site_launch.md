@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ColorTime_Site_Launch
-datePublished: '2016-06-20T21:43:47.102Z'
-dateModified: '2016-06-20T21:43:08.728Z'
+datePublished: '2016-06-20T21:44:54.543Z'
+dateModified: '2016-06-20T21:44:02.137Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-20-site_launch.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-20-site_launch.md
 url: site_launch/index.html
 _type: Article
 
